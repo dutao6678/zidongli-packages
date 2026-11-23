@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>packages</key>
+	<dict>
+		<key>plugins</key>
+		<array>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>ZiDongLi Color</string>
+					<key>zh-Hans</key>
+					<string>字动力·彩字</string>
+				</dict>
+				<key>url</key>
+				<string>https://github.com/dutao6678/zidongli-color</string>
+				<key>branch</key>
+				<string>main</string>
+				<key>path</key>
+				<string>dist/字动力·彩字-1.0.0.glyphsPalette</string>
+				<key>descriptions</key>
+				<dict>
+					<key>en</key>
+					<string>Color glyphs, assign colors in batches, manage palettes, and monitor TrueType capacity in Glyphs 3.</string>
+					<key>zh-Hans</key>
+					<string>为字形快速着色，支持批量与随机配色、色板管理及TrueType容量监控。</string>
+				</dict>
+				<key>screenshot</key>
+				<string>https://raw.githubusercontent.com/dutao6678/zidongli-color/main/1.png</string>
+				<key>minVersion</key>
+				<string>3532</string>
+				<key>archs</key>
+				<array>
+					<string>arm</string>
+				</array>
+			</dict>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>ZiDongLi Vector Batch Import</string>
+					<key>zh-Hans</key>
+					<string>字动力 · 矢量批量导入</string>
+				</dict>
+				<key>url</key>
+				<string>https://github.com/dutao6678/zidongli-plugins</string>
+				<key>branch</key>
+				<string>main</string>
+				<key>path</key>
+				<string>字动力·矢量批量导入.glyphsPlugin</string>
+				<key>archs</key>
+				<array>
+					<string>arm</string>
+				</array>
+				<key>minVersion</key>
+				<string>3532</string>
+				<key>descriptions</key>
+				<dict>
+					<key>en</key>
+					<string>SVG, EPS and vector PDF. One PDF page per asset. Device-bound offline license. Requires the verified CPython 3.11/PyObjC 11.1 environment; read the guide.</string>
+					<key>zh-Hans</key>
+					<string>SVG、EPS和矢量PDF，一页一字／一页一份素材；离线设备授权。需已验证的Python3.11/PyObjC11.1环境，安装前阅读说明。</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
